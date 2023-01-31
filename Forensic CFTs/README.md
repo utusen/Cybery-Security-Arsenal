@@ -1,5 +1,5 @@
 # Forensic CFTs
-The purpose of this repo is to list the web sites where DFIR forensic challenges and CTFs can be found.
+The web sites where DFIR forensic challenges and CTFs can be found are listed below;
 
 
 * Collection of CTF challenges (All categories - Web, Rev, Pwn, Forensics) - https://github.com/teambi0s/InCTFi
