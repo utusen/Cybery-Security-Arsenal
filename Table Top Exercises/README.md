@@ -10,7 +10,7 @@ Useful websites for table top exercises are listed below;
 
 * Cyber focused examples of attacks or incidents: https://attack.mitre.org/resources/adversary-emulation-plans/
 
-* Scenario ideas: https://infosec.exchange/@badthingsdaily mainly focused on security-related events
+* Scenario ideas mainly focused on security-related events: https://infosec.exchange/@badthingsdaily 
 
 * Set of scenarios from different industry perspectives: https://www.cisa.gov/cisa-tabletop-exercise-packages
 
